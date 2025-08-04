@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Qingqing He
 
 # Full Name (for SEO)
-first_name: Nelson
-last_name: Bighetti
+first_name: Qingqing
+last_name: He
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Ph.D. Candidate
 
 # Organizations/Affiliations
 organizations:
